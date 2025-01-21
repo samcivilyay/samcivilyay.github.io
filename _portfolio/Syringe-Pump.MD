@@ -29,7 +29,7 @@ The purpose of this project was to design and build a cost-effective, highly acc
 * Modular design for effective disassembly and recycling of 3D-printed components
 * Parameterized CAD design for easy modifications
 
-## Off-The-Shelf Parts 
+## Off-The-Shelf and Manufactured Necessary Components 
 
 | Part | Description |
 |------|-------------|
