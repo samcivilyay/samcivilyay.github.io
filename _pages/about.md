@@ -1,6 +1,6 @@
 ---
 
-title: "About David Florian"
+title: "About Samantha (Sam) Civil"
 
 ---
 
