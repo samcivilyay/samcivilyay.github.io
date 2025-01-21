@@ -11,7 +11,7 @@ gallery:
   - image_path: assets/img/syringepumpgallery4.png
 ---
 
-# Project Details/Features 
+## Project Details/Features 
 
 The purpose of this project was to design and build a cost-effective, highly accurate syringe pump as an alternative to expensive commercial models. The key features of the design include:
 * Precise liquid dispensing using a stepper motor and lead screw mechanism
@@ -21,7 +21,7 @@ The purpose of this project was to design and build a cost-effective, highly acc
 * Modular design for effective disassembly and recycling of 3D-printed components
 * Parameterized CAD design for easy modifications
 
-# Off-The-Shelf Parts 
+## Off-The-Shelf Parts 
 
 | Part | Description |
 |------|-------------|
@@ -40,7 +40,7 @@ The purpose of this project was to design and build a cost-effective, highly acc
 | Limit Switch | [For stopping the motor when syringe is empty](https://www.amazon.com/gp/product/B073TYWX86/ref=ppx_yo_dt_b_asin_image_o01_s00?ie=UTF8&psc=1) |
 | LED | [Multicolored](https://www.amazon.com/dp/B0194Y6MW2/ref=cm_sw_em_r_mt_dp_FW3CFQT7ZGFQ2R04N6G3?_encoding=UTF8&psc=1) |
 
-# Arduino Code
+## Arduino Code
 
 *[Syringe Pump Code](https://github.com/samcivilyay/Syringe_Pump_Project_SC/blob/main/Syringe_Pump_Arduino_Code)
 
