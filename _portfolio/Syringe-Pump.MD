@@ -42,7 +42,7 @@ The purpose of this project was to design and build a cost-effective, highly acc
 
 ## Arduino Code
 
-*[Syringe Pump Code](https://github.com/samcivilyay/Syringe_Pump_Project_SC/blob/main/Syringe_Pump_Arduino_Code)
+[Syringe Pump Code](https://github.com/samcivilyay/Syringe_Pump_Project_SC/blob/main/Syringe_Pump_Arduino_Code)
 
 
 
