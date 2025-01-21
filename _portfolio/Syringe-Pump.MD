@@ -47,6 +47,11 @@ The purpose of this project was to design and build a cost-effective, highly acc
 | Push Buttons | [One latching, two non-latching](https://www.amazon.com/dp/B07XTBL1NP?psc=1&smid=A2NNH5C5IP9N3O&linkCode=sl1&tag=drd0cf-20&linkId=43b42a7cb2a088ebd85d65cb9da46725&language=en_US&ref_=as_li_ss_tl) |
 | Limit Switch | [For stopping the motor when syringe is empty](https://www.amazon.com/gp/product/B073TYWX86/ref=ppx_yo_dt_b_asin_image_o01_s00?ie=UTF8&psc=1) |
 | LED | [Multicolored](https://www.amazon.com/dp/B0194Y6MW2/ref=cm_sw_em_r_mt_dp_FW3CFQT7ZGFQ2R04N6G3?_encoding=UTF8&psc=1) |
+| Enclosure | 3D-printed box to protect electronics |
+| Carriage | 3D-printed component to hold syringe plunger |
+| Middle Support | 3D-printed part to hold syringe body |
+| End Support | 3D-printed component to support syringe tip |
+| Lid | 3D-printed cover for enclosure |
 
 ## Arduino Code
 
