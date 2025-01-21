@@ -5,9 +5,15 @@ header:
   image: /assets/img/syringepumpcover.png
   teaser: /assets/img/syringepumpteaser.png
 gallery:
-  - image_path: assets/img/Slide-3.png
-  - image_path: assets/img/Slide-2.png
-  - image_path: assets/img/Slide-4.png
+  - url: /assets/img/Cyber-Scooter-1.jpg
+    image_path: assets/img/Cyber-Scooter-1.jpg
+    alt: "placeholder image 1"
+  - url: /assets/img/Cyber-Scooter-2.jpg
+    image_path: assets/img/Cyber-Scooter-2.jpg
+    alt: "placeholder image 2"
+  - url: /assets/img/Cyber-Scooter-3.jpg
+    image_path: assets/img/Cyber-Scooter-3.jpg
+    alt: "placeholder image 3"
 ---
 
 ## Project Details/Features 
