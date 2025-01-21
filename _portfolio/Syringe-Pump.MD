@@ -5,22 +5,14 @@ header:
   image: /assets/img/syringepumpcover.png
   teaser: /assets/img/syringepumpteaser.png
 gallery:
-  - url: /assets/img/syringepumpgallery1.png
-    image_path: assets/img/syringepumpgallery1.png
-    alt: "placeholder image 1"
-  - url: /assets/img/syringepumpgallery2.png
-    image_path: assets/img/syringepumpgallery2.png
-    alt: "placeholder image 2"
-  - url: /assets/img/syringepumpgallery3.png
-    image_path: assets/img/syringepumpgallery3.png
-    alt: "placeholder image 3"
-  - url: /assets/img/syringepumpgallery4.png
-    image_path: assets/img/syringepumpgallery4.png
-    alt: "placeholder image 4"
+  - image_path: assets/img/syringepumpgallery1.png
+  - image_path: assets/img/syringepumpgallery2.png
+  - image_path: assets/img/syringepumpgallery3.png
+  - image_path: assets/img/syringepumpgallery4.png
 ---
 # Project Details/Features 
 
-** The purpose of this project was to design and build a cost-effective, highly accurate syringe pump as an alternative to expensive commercial models. The key features of the design include:
+The purpose of this project was to design and build a cost-effective, highly accurate syringe pump as an alternative to expensive commercial models. The key features of the design include:
 * Precise liquid dispensing using a stepper motor and lead screw mechanism
 * Multi-directional pump feature for filling and expelling liquids
 * Compatibility with different syringe sizes (20 mL and 10 mL)
