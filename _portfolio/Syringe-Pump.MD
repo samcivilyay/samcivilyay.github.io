@@ -5,11 +5,6 @@ header:
   image: /assets/img/syringepumpcover.png
   teaser: /assets/img/syringepumpteaser.png
 gallery:
-  - image_path: assets/img/syringepumpgallery1.png
-  - image_path: assets/img/syringepumpgallery2.png
-  - image_path: assets/img/syringepumpgallery3.png
-  - image_path: assets/img/syringepumpgallery4.png
-gallery:
   - url: /assets/img/syringepumpgallery1.png
     image_path: assets/img/syringepumpgallery1.png
     alt: "placeholder image 1"
@@ -38,11 +33,8 @@ gallery:
 | Part | Description |
 |------|-------------|
 | Stepper Motor | [NEMA 17 with 1.8-degree angle (200 steps/revolution)](https://www.amazon.com/gp/product/B07LF898KN/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1) |
-| Lead Screw | [8 mm lead](https://www.amazon.com/gp/product/B01GJCP3HU/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) |
-| Lead Screw | [250 mm length with 2 mm pitch and 2 mm
-lead](https://www.amazon.com/dp/B07R1H5ZMV/ref=cm_sw_em_r_mt_dp_0YZ13D4HQBGW2Z86PBV1?_encoding=UTF8&psc=1) |
-| Lead Screw | [250 mm length with 2 mm pitch and 8 mm
-lead](https://www.amazon.com/gp/product/B0B8RKN89V?ie=UTF8&th=1&linkCode=sl1&tag=drd0cf-20&linkId=bb4eefbbfff880704d7cd0784b1af8c0&language=en_US&ref_=as_li_ss_tl) |
+| Lead Screw | [2 mm lead](https://www.amazon.com/dp/B07R1H5ZMV/ref=cm_sw_em_r_mt_dp_0YZ13D4HQBGW2Z86PBV1?_encoding=UTF8&psc=1) |
+| Lead Screw | [8 mm lead](https://www.amazon.com/gp/product/B0B8RKN89V?ie=UTF8&th=1&linkCode=sl1&tag=drd0cf-20&linkId=bb4eefbbfff880704d7cd0784b1af8c0&language=en_US&ref_=as_li_ss_tl) |
 | Flexible Coupler | [1/4th inch by 8 mm coupler](https://us.openbuilds.com/1-4-x-8mm-flexible-coupling/) |
 | Linear Rod | [200 mm length with 8 mm diameter](https://www.amazon.com/dp/B07MPGWJMS/ref=cm_sw_em_r_mt_dp_X5AQS0ES7JH8JG83AAZ3) |
 | Linear Bearing | [For 8 mm diameter rod](https://www.amazon.com/gp/product/B087WPGQ8T/ref=ppx_yo_dt_b_asin_image_o00_s00?ie=UTF8&psc=1) |
