@@ -9,6 +9,19 @@ gallery:
   - image_path: assets/img/syringepumpgallery2.png
   - image_path: assets/img/syringepumpgallery3.png
   - image_path: assets/img/syringepumpgallery4.png
+gallery:
+  - url: /assets/img/syringepumpgallery1.png
+    image_path: assets/img/syringepumpgallery1.png
+    alt: "placeholder image 1"
+  - url: /assets/img/syringepumpgallery2.png
+    image_path: assets/img/syringepumpgallery2.png
+    alt: "placeholder image 2"
+  - url: /assets/img/syringepumpgallery3.png
+    image_path: assets/img/syringepumpgallery3.png
+    alt: "placeholder image 3"
+  - url: /assets/img/syringepumpgallery4.png
+    image_path: assets/img/syringepumpgallery4.png
+    alt: "placeholder image 4"
 ---
 # Project Details/Features 
 
