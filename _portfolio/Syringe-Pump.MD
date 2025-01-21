@@ -12,7 +12,7 @@ gallery:
 ---
 # Project Details/Features 
 
-The purpose of this project was to design and build a cost-effective, highly accurate syringe pump as an alternative to expensive commercial models. The key features of the design include:
+## The purpose of this project was to design and build a cost-effective, highly accurate syringe pump as an alternative to expensive commercial models. The key features of the design include:
 * Precise liquid dispensing using a stepper motor and lead screw mechanism
 * Multi-directional pump feature for filling and expelling liquids
 * Compatibility with different syringe sizes (20 mL and 10 mL)
