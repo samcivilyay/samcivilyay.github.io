@@ -2,8 +2,8 @@
 title: "Syringe Pump"
 excerpt: "DIY syringe pump capable of 1 uL / min flow rate up to 10 mL / min"
 header:
-  image: /assets/img/Cyber-Scooter-Banner.jpg
-  teaser: /assets/img/Cyber-Scooter-TH.jpg
+  image: /assets/img/syringepumpcover.png
+  teaser: /assets/img/syringepumpteaser.png
 gallery:
   - url: /assets/img/Cyber-Scooter-1.jpg
     image_path: assets/img/Cyber-Scooter-1.jpg
