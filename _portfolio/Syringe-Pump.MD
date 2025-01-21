@@ -51,3 +51,4 @@ The purpose of this project was to design and build a cost-effective, highly acc
 
 
 
+{% include gallery caption="Large Format 3D Printer Gallery" %}
