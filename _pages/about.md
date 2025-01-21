@@ -52,7 +52,7 @@ Sam can operate a number of computer aided design (CAD) software to design and g
 
 ## Publications/Awards
 
-* Vanderbilt Cornelius Vanderbilt full-tuition Scholarship recipient
+* Cornelius Vanderbilt full-tuition Scholarship recipient
 * Certified SolidWorks Associate
 
 <img src="/assets/img/headshot_sm.png" alt="Samantha Civil" style="width:200px;"/>
