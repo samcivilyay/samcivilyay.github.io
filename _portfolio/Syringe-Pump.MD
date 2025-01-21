@@ -53,7 +53,7 @@ The purpose of this project was to design and build a cost-effective, highly acc
 [Syringe Pump Code](https://github.com/samcivilyay/Syringe_Pump_Project_SC/blob/main/Syringe_Pump_Arduino_Code)
 
 ## CAD Model
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e10515e96ce3f04fe?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe><iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e10515e96ce3f04fe?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e10515e96ce3f04fe?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 ## Operating Instructions
 * Load the syringe:
