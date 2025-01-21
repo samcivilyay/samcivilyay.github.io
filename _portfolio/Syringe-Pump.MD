@@ -5,15 +5,18 @@ header:
   image: /assets/img/syringepumpcover.png
   teaser: /assets/img/syringepumpteaser.png
 gallery:
-  - url: /assets/img/Cyber-Scooter-1.jpg
-    image_path: assets/img/Cyber-Scooter-1.jpg
+  - url: /assets/img/syringepumpgallery1.png
+    image_path: assets/img/syringepumpgallery1.png
     alt: "placeholder image 1"
-  - url: /assets/img/Cyber-Scooter-2.jpg
-    image_path: assets/img/Cyber-Scooter-2.jpg
+  - url: /assets/img/syringepumpgallery2.png
+    image_path: assets/img/syringepumpgallery2.png
     alt: "placeholder image 2"
-  - url: /assets/img/Cyber-Scooter-3.jpg
-    image_path: assets/img/Cyber-Scooter-3.jpg
+  - url: /assets/img/syringepumpgallery3.png
+    image_path: assets/img/syringepumpgallery3.png
     alt: "placeholder image 3"
+  - url: /assets/img/syringepumpgallery4.png
+    image_path: assets/img/syringepumpgallery4.png
+    alt: "placeholder image 4"
 ---
 
 ## Project Details/Features 
@@ -51,4 +54,4 @@ The purpose of this project was to design and build a cost-effective, highly acc
 
 
 
-{% include gallery caption="Large Format 3D Printer Gallery" %}
+{% include gallery caption="Syringe Pump Assembly Gallery" %}
