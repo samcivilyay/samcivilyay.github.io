@@ -12,7 +12,7 @@ gallery:
 ---
 # Project Details/Features 
 
-## The purpose of this project was to design and build a cost-effective, highly accurate syringe pump as an alternative to expensive commercial models. The key features of the design include:
+** The purpose of this project was to design and build a cost-effective, highly accurate syringe pump as an alternative to expensive commercial models. The key features of the design include:
 * Precise liquid dispensing using a stepper motor and lead screw mechanism
 * Multi-directional pump feature for filling and expelling liquids
 * Compatibility with different syringe sizes (20 mL and 10 mL)
@@ -25,6 +25,7 @@ gallery:
 | Part | Description |
 |------|-------------|
 | Stepper Motor | [NEMA 17 with 1.8-degree angle (200 steps/revolution)](https://www.amazon.com/gp/product/B07LF898KN/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1) |
+| Lead Screw | [8 mm lead](https://www.amazon.com/gp/product/B01GJCP3HU/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) |
 | Lead Screw | [250 mm length with 2 mm pitch and 2 mm
 lead](https://www.amazon.com/dp/B07R1H5ZMV/ref=cm_sw_em_r_mt_dp_0YZ13D4HQBGW2Z86PBV1?_encoding=UTF8&psc=1) |
 | Lead Screw | [250 mm length with 2 mm pitch and 8 mm
