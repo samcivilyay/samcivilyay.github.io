@@ -1,26 +1,19 @@
 ---
-title: "Example Web Page"
+title: "Mechanical Engineering Projects and More!"
 layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/img/Home-Banner-Image.jpeg
+  overlay_image: /assets/img/ISS_home_banner.jpg
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "Samantha (Sam) Civil is a mechanical engineering student passionate about additive manufacturing and the aerospace industry, and a music enthusiast"
+excerpt: "Samantha (Sam) Civil is a mechanical engineering student passionate about additive manufacturing, the aerospace industry, and funky music!"
 feature_row:
-  - image_path: assets/img/CNC-Mill-Thumbnail.jpg
-    alt: "CNC Mill"
-    title: "Custom CNC Milling Machine"
-    excerpt: "Built for fabricating aluminum and steel parts."
-  - image_path: assets/img/Plasma-Cutter-Banner.jpg
-    alt: "placeholder image 2"
-    title: "DIY Plasma Cutter"
-    excerpt: "A hot plasma stream slices through sheet metal."
-  - image_path: assets/img/Zidex-Thumbnail.jpg
-    title: "Bespoke IDEX 3D Printer"
-    excerpt: "Multimaterial printing. "
+  - image_path: assets/img/syringepumpteaser.png
+    alt: "Syringe Pump"
+    title: "Syringe Pump"
+    excerpt: "Cost-effective, highly accurate syringe pump as an alternative to expensive commercial models."
 ---
 
 {% include feature_row %}
