@@ -5,10 +5,9 @@ header:
   image: /assets/img/syringepumpcover.png
   teaser: /assets/img/syringepumpteaser.png
 gallery:
-  - image_path: assets/img/syringepumpgallery1.png
-  - image_path: assets/img/syringepumpgallery2.png
-  - image_path: assets/img/syringepumpgallery3.png
-  - image_path: assets/img/syringepumpgallery4.png
+  - image_path: assets/img/Slide-3.png
+  - image_path: assets/img/Slide-2.png
+  - image_path: assets/img/Slide-4.png
 ---
 
 ## Project Details/Features 
