@@ -55,4 +55,17 @@ The purpose of this project was to design and build a cost-effective, highly acc
 ## CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e10515e96ce3f04fe?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe><iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e10515e96ce3f04fe?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
+## Operating Instructions
+* Load the syringe:
+  * Fit the syringe's outward extrusions into the middle support.
+  * Rest the syringe tip on the end support, facing away from the motor.
+  * Place the plunger end in the carriage's top extrusion.
+* Plug in the device to turn it on.
+* Press the latching button to start dispensing (LED turns green).
+* Press the latching button again to pause (LED turns yellow).
+* When the syringe is empty, the carriage will hit the limit switch, stopping the motor (LED turns red).
+* Use the two additional buttons to change the motor's rotation direction:
+  * Hold left button: Move syringe back to starting position for refilling.
+  * Hold right button: Empty syringe at a constant rate.
+
 {% include gallery caption="Syringe Pump Assembly Gallery" %}
