@@ -46,16 +46,24 @@ A specific application requiring the sorting of small particles is the isolation
     * Maintain symmetry in outlet channels; all outlet channel lengths should be equal to ensure consistent flow rates and prevent particle recombination.
     * Export the design as an STL file for 3D printing.
 * Printing and Curing the Mold
+  * Resin Printing:
+    * Slice the 3D model in PreForm for a Form 3+/4 printer with a layer thickness of 0.05 mm for high resolution. 
+    * To avoid layer lines, ensure that the bottom of the mold is perfectly flat, and parallel to the resin vat. 
+    * Post-Processing
+      * Wash the printed mold for 5 minutes on the print bed in the FormWash, then remove it and wash for another 5 minutes in fresh IPA (isopropyl alcohol).
+      * Dry the mold upside down for 30 minutes to prevent IPA pooling. Make sure that the inside of the mold has a homogenous sheen, and there are no glossy areas with uncured resin. Do not touch the inside of the mold
+      * Gently blow off debris between the channels using compressed air, and then perform a 60 second surface cure with supports on to avoid warping.
+      * Carefully remove support material without touching the inside of the mold.
+    * Parylene Coating 
+      * Place the mold in a parylene deposition machine.
+      * Apply a thin, uniform layer of parylene-C to the mold.
+    * Cast PDMS
+      * Pour PDMS mixture into the parylene-coated mold, and degas to remove trapped air bubbles from channels.
+      * Cure PDMS at 80 degrees C for 3 hours. 
+    * Plasma Bond Glass Slide
+      * Demold cured PDMS device carefully. 
+      * Bond PDMS device to glass coverslip using a PlasmaFlo PDC-FMG plasma cleaner.
 
-
-• How to go from the 3D printed mold to the final device (Lab on a Chip paper). Include
-the following steps but with additional detail:
-o CAD model
-o Print and cure mold
-o Parylene device
-o Cast PDMS
-o Plasma bond glass slide
-To go from 
 
 
 
