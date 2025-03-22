@@ -18,7 +18,7 @@ feature_row:
   - image_path: assets/img/ufluidic_device.png
     alt: "Syringe Pump"
     title: "Syringe Pump"
-    excerpt: "Microfluidic device capable of sorting particles ranging from ."
+    excerpt: "Microfluidic device for sorting particles by size ranging from 125 – 150 μm, and 425 – 500 μm."
 ---
 
 {% include feature_row %}
