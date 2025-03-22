@@ -48,6 +48,9 @@ A specific application requiring the sorting of small particles is the isolation
       * Demold cured PDMS device carefully. 
       * Bond PDMS device to glass coverslip using a PlasmaFlo PDC-FMG plasma cleaner.
 
+## CAD Model
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a499832e28f18a932b?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
 ## Discussion
 Resin printed molds often contain uncured resin residues on their surfaces, even after post-processing. These residues can inhibit the curing of PDMS, which leads to incomplete crosslinking and a sticky, non-functional device. Parylene acts as a barrier layer, which prevents uncured resin from interfering with the PDMS curing process. Parylene coating also creates a smooth and uniform surface ideal for replicating fine microfluidic features in PDMS. The microfluidic sorting device created can be used for a variety of applications, including: 
   * Sorting red blood cells, white blood cells and platelets for diagnostic purposes.
