@@ -14,7 +14,6 @@ feature_row:
     alt: "Syringe Pump"
     title: "Syringe Pump"
     excerpt: "Cost-effective, highly accurate syringe pump as an alternative to expensive commercial models."
-feature_row:
   - image_path: assets/img/microfluidic_device_path.jpg
     alt: "Microfluidic Device"
     title: "Microfluidic Device"
