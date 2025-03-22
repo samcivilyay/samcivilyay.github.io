@@ -9,17 +9,8 @@ header:
 
 Microfluidic devices manipulate small volumes of fluids, ranging from tens to hundreds of micrometers, within small channels. They are essentially like a circuit board for fluids, transporting them via small channels or tubes, to sort and mix reagants together. These devices allow for practical applications like lab-on-a-chip technology (scaling down multiple lab processes down to a single circuit or chip), multiplexing (multiple signal transmisssion from a single channel) and many others. To sort microfluidic particles by size, the pinch flow fractionation technique is utilized. After a liquid containing particles flows through a narrow channel, a second flow of liquid is introduced from the size, pinching this main flow into a narrow stream, and effectively forcing all particles to line up along one wall of the channel. When the pinched section ends, the particles start to spread out again; larger particles move farther away from the wall than smaller particles, creating distinct paths for differently sized particles. These particles are then collected separately by size via varying heights. To determine the particle position at a devices outlet, the following equation can be utilized: 
 
-\[ Y_0 = \left(w_p - \frac{D}{2}\right) \frac{w_b}{w_p} \]
-
-### Variables
-
-- \( Y_0 \): The lateral position of the particle at the outlet.
-- \( w_p \): The width of the pinched flow region.
-- \( D \): The diameter of the particle.
-- \( w_b \): The width of the main channel.
-
 ![Pinched Flow Diagram](/assets/img/pinched_flow_diagram.png)
-*Pinched flow fractionation diagram and reference for particle position.*
+*Pinched flow fractionation diagram, equation, and reference for particle position.*
 
 A specific application requiring the sorting of small particles is the isolation of circulating tumor cells, or CTCs, from blood samples. CTCs are rare cells that shed from tumors and circulate in the bloodstream, and their isolation is critical to cancer diagnosis and treatment. Microfluidic devices offer a lower cost and effective method to isolate these cells based on their size differences. To do this, a blood sample is injected into the microfluidic device, and size-based sorting is completed via pinched flow fractionation. The sorted CTCs are then collected at specific outlets for further analysis (Sollier et al., 2014). 
 
