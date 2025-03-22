@@ -43,6 +43,7 @@ A specific application requiring the sorting of small particles is the isolation
     * Channel dimensions: At least 1.2–1.5 times the diameter of the largest particle to avoid clogging.
     * Aspect ratio: Keep below 4:1 to prevent breakage during printing or demolding.
     * Inlets and outlets: Use 1.5 mm posts extruded above the mold for compatibility with microfluidic barbs.
+    * Use the particle position equation to determine the outlet heights of each differently sized particle. 
     * Maintain symmetry in outlet channels; all outlet channel lengths should be equal to ensure consistent flow rates and prevent particle recombination.
     * Export the design as an STL file for 3D printing.
 * Printing and Curing the Mold
