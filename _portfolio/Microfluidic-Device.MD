@@ -2,7 +2,8 @@
 title: "Microfluidic Device"
 excerpt: "Microfluidic device for sorting particles by size ranging from 125 – 150 μm, and 425 – 500 μm."
 header:
-  teaser: /assets/img/microfluidic_device_path.jpg
+image: /assets/img/microfluidic_device_path.jpg
+teaser: /assets/img/microfluidic_device_path.jpg
 ---
 
 ## Introduction 
