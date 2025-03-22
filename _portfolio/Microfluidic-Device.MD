@@ -57,15 +57,15 @@ Resin printed molds often contain uncured resin residues on their surfaces, even
   * Sorting microplastics by size to study their distribution and environmental impact in water samples.
   * Sorting bacteria or yeast for quality control in food and beverage production.
 
-![Microfluidic Device Mold](/assets/img/ufluidic_mold.png)
+![Microfluidic Device Mold](/assets/img/ufluidic_mold.jpg)
 *Microfluidic device resin printed mold.*
 
-![PDMS](/assets/img/PDMS.png)
+![PDMS](/assets/img/PDMS.jpg)
 *PDMS casted microfluidic device.*
 
 My design incorporates an inlet/outlet channel width of 0.75 mm, which is 1.5 times greater than the largest particle size of 500 micrometers, preventing particles from getting stuck or blocked as they travel, and ensuring laminar, and even flow distribution. The pinched section width is 0.5 mm, which is 1.25 times the largest particle size; the narrower width increases fluid velocity in the pinched region and forces particles in a line along the wall, but is still large enough to prevent any clogging. The broad section encompasses the entire height of the microfluidic device to allow for efficient particle separation. There are three outlet ports. The highest outlet port is for particles sized between 125-150 micrometers, and thus includes heights between 16.15 mm and 16.625 mm, as calculated from the particle position equation. The middle outlet port is for particles sized between 425 and 500 micrometers, and thus includes heights between 9.5 mm and 10.925 mm, as calculated. The lowest outlet port collects any larger particles that fall below 6 mm. The outlet channels are all the same length, approximately 20 mm, to ensure consistent flow rates. Corners in the model are rounded to prevent any disruptions to streamlines and maintain proper separation. 
 
-<iframe width="560" height="315" src="https://youtu.be/2dfsqMubH2U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2dfsqMubH2U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 As shown by the testing video here, the larger, purple particles tended to separate downwards from the smaller, orange particles. However, at times, the larger particles still exited from the taller outlet. This indicates that perhaps the entrances to each outlet channel should have been more compressed, so that particles at certain heights were encouraged to exit as closest to their location as possible, through the correct outlet. Additionally, at times, particles bumped into each other, and because of this, exited through the incorrect outlet. To further optimize the design, in the future, outlet channels could be more staggered to minimize overlap, and perhaps baffles could be added near outlet entrances to help better guide particles into the correct channel.  
 
