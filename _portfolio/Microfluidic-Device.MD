@@ -65,9 +65,19 @@ A specific application requiring the sorting of small particles is the isolation
       * Demold cured PDMS device carefully. 
       * Bond PDMS device to glass coverslip using a PlasmaFlo PDC-FMG plasma cleaner.
 
+## Discussion
+• Why are resin-printed molds coated with parylene prior to casting the PDMS? What are hypothetical applications of your microfluidic mixer or sorter?
+Resin printed molds often contain uncured resin residues on their surfaces, even after post-processing. These residues can inhibit the curing of PDMS, which leads to incomplete crosslinking and a sticky, non-functional device. Parylene acts as a barrier layer, which prevents uncured resin from interfering with the PDMS curing process. Parylene coating also creates a smooth and uniform surface ideal for replicating fine microfluidic features in PDMS. The microfluidic sorting device created can be used for a variety of applications, including: 
+  * put examples here
 
+![Microfluidic Device Mold](/assets/img/ufluidic_mold.png)
+*Microfluidic device resin printed mold.*
 
+![PDMS](/assets/img/PDMS.png)
+*PDMS casted microfluidic device.*
 
+My design incorporates an inlet/outlet channel width of 0.75 mm, which is 1.5 times greater than the largest particle size of 500 micrometers, preventing particles from getting stuck or blocked as they travel, and ensuring laminar, and even flow distribution. The pinched section width is 0.5 mm, which is 1.25 times the largest particle size; the narrower width increases fluid velocity in the pinched region and forces particles in a line along the wall, but is still large enough to prevent any clogging. The broad section encompasses the entire height of the microfluidic device to allow for efficient particle separation. There are three outlet ports. The highest outlet port is for particles sized between 125-150 micrometers, and thus includes heights between 16.15 mm and 16.625 mm, as calculated from the particle position equation. The middle outlet port is for particles sized between 425 and 500 micrometers, and thus includes heights between 9.5 mm and 10.925 mm, as calculated. The lowest outlet port collects any larger particles that fall below 6 mm. The outlet channels are all the same length, approximately 20 mm, to ensure consistent flow rates. Corners in the model are rounded to prevent any disruptions to streamlines and maintain proper separation. 
 
+EMBEDDED YOUTUBE VIDEO HERE 
 
-{% include gallery caption="Syringe Pump Assembly Gallery" %}
+As shown by the testing video here, the larger, purple particles tended to separate downwards from the smaller, orange particles. However, at times, the larger particles still exited from the taller outlet. This indicates that perhaps the entrances to each outlet channel should have been more compressed, so that particles at certain heights were encouraged to exit as closest to their location as possible, through the correct outlet. Additionally, at times, particles bumped into each other, and because of this, exited through the incorrect outlet. To further optimize the design, in the future, outlet channels could be more staggered to minimize overlap, and perhaps baffles could be added near outlet entrances to help better guide particles into the correct channel.  
