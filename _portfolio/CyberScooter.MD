@@ -70,3 +70,5 @@ As shown by the testing video here, the larger, purple particles tended to separ
 ## Citations
 
 Sollier, E., Go, D. E., Che, J., Gossett, D. R., O'Byrne, S., Weaver, W. M., ... & Di Carlo, D. (2014). Size-selective collection of circulating tumor cells using Vortex technology. Lab on a Chip, 14(1), 63-77. DOI: 10.1039/C3LC50689D
+
+{% include gallery caption="Microfluidic Device Physical Fabrication" %}
