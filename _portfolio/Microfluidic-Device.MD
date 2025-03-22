@@ -8,7 +8,7 @@ header:
 gallery:
   - url: /assets/img/ufluidic.png
     image_path: assets/img/ufluidic.png
-    alt: "placeholder image 1"
+    alt: "placeholder image 1" 
 ---
 
 ## Introduction 
