@@ -68,3 +68,7 @@ My design incorporates an inlet/outlet channel width of 0.75 mm, which is 1.5 ti
 <iframe width="560" height="315" src="https://youtu.be/2dfsqMubH2U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 As shown by the testing video here, the larger, purple particles tended to separate downwards from the smaller, orange particles. However, at times, the larger particles still exited from the taller outlet. This indicates that perhaps the entrances to each outlet channel should have been more compressed, so that particles at certain heights were encouraged to exit as closest to their location as possible, through the correct outlet. Additionally, at times, particles bumped into each other, and because of this, exited through the incorrect outlet. To further optimize the design, in the future, outlet channels could be more staggered to minimize overlap, and perhaps baffles could be added near outlet entrances to help better guide particles into the correct channel.  
+
+## Citations
+
+Sollier, E., Go, D. E., Che, J., Gossett, D. R., O'Byrne, S., Weaver, W. M., ... & Di Carlo, D. (2014). Size-selective collection of circulating tumor cells using Vortex technology. Lab on a Chip, 14(1), 63-77. DOI: 10.1039/C3LC50689D
