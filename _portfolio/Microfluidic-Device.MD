@@ -6,8 +6,8 @@ header:
   image: /assets/img/microfluidic_device_path.jpg
   teaser: /assets/img/microfluidic_device_path.jpg
 gallery:
-  - url: /assets/img/syringepumpgallery1.png
-    image_path: assets/img/syringepumpgallery1.png
+  - url: /assets/img/ufluidic.png
+    image_path: assets/img/ufluidic.png
     alt: "placeholder image 1"
 ---
 
