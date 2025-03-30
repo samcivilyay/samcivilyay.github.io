@@ -2,8 +2,8 @@
 title: "MultiMaterial Pliers"
 excerpt: "3D Printed, print-in-place functional pliers composed of PLA and TPU components."
 header:
-  image: assets/img/pliers.jpeg
-  teaser: assets/img/pliers.jpeg
+  image: assets/img/pliers.png
+  teaser: assets/img/pliers.png
 gallery:
   - url: /assets/img/pliers_cad.png
     image_path: assets/img/pliers_cad.png
@@ -33,14 +33,13 @@ The MultiMaterial pliers are designed so that the flexible joint is made from 95
 
 The design incorporates a diagonal triangular-like jaw design in the flexible component, that are angled so that the TPU bites into the rigid PLA and cannot fall out. There is 0.5 mm of clearance space between the flexible joint and the rigid handle/jaw, for ease of integration and to allow enough space for a press-fit, but not loose enough that the TPU joint can easily fall out. The pliers are approximately 300 mm tall, and approximately 140 mm wide, so that one's hand can easily and comfortably grip around the handles and squeeze accordingly. Fortunately, the first physical iterations of the rigid plier components and the joint were easily integrated, and functioned effectively.
 
-
 * Plier Specifications:
   * Jaw Length: 70.6 mm 
     * The pliers can grip an object with a maximum depth of 70.6 mm. 
   * Jaw Capacity: 21.2 mm
     * The pliers can grip an object with a maximum width of 21.2 mm. 
 
-## Print settings
+## Print Settings
   * TPU Flexible Joint:
     * Infill Pattern: Rectinilear, 15%
     * Infill Width: 1 mm
