@@ -5,8 +5,8 @@ header:
   image: assets/img/pliers.jpg
   teaser: assets/img/pliers.jpg
 gallery:
-  - url: /assets/img/cad_model.png
-    image_path: assets/img/cad_model.jpg
+  - url: /assets/img/pliers_cad.png
+    image_path: assets/img/pliers_cad.jpg
     alt: "placeholder image 1" 
   - url: /assets/img/plier_components.jpg
     image_path: assets/img/plier_components.jpg
@@ -56,10 +56,10 @@ For the TPU flexible joints, a rectilinear pattern was chosen so that when the p
 
 
 ![Functioning Pliers](/assets/img/pliers_resistor.gif)
-*Functioning pliers picking up and placing down a resistor.*
+*Pliers picking up and placing down a resistor.*
 
 ![Pliers Squeeze](/assets/img/pliers_squeeze.gif)
-*Functioning pliers opening and closing.*
+*Pliers opening and closing.*
 
 
 ## Citations
