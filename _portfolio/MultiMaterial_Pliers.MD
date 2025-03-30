@@ -6,7 +6,16 @@ header:
   teaser: assets/img/pliers.jpg
 gallery:
   - url: /assets/img/cad_model.png
-    image_path: assets/img/pliers_iteration.png
+    image_path: assets/img/cad_model.jpg
+    alt: "placeholder image 1" 
+  - url: /assets/img/plier_components.jpg
+    image_path: assets/img/plier_components.jpg
+    alt: "placeholder image 1" 
+  - url: /assets/img/pliers_closed.jpeg
+    image_path: assets/img/pliers_closed.jpeg
+    alt: "placeholder image 1" 
+  - url: /assets/img/pliers.jpg
+    image_path: assets/img/pliers.jpg
     alt: "placeholder image 1" 
 ---
 ## Project Description
@@ -41,9 +50,6 @@ The design incorporates a diagonal triangular-like jaw design in the flexible co
     * Horizontal Shells: 4 solid layers
 
 For the TPU flexible joints, a rectilinear pattern was chosen so that when the plier handles are squeezed, the grid-like structure bends cleanly along layer lines, and the stress is evenly distributed along those lines. A lower infill percentage was chosen to maximize bendability. The infill width of 1 mm ensures that each layer is stable while still maintaining bendability. 5 perimeters reinforce the joint's outer walls to resist tearing during repeated flexing. The absence of horizontal shells on the top and bottom of the TPU joint allows the joint to flex uniformly, as stiff shells would resist bending. The PLA rigid components were printed with the standard slicing parameters provided in the SuperSlicer software, as they are sufficient to maintain the pliers' durability.
-    
-
-o Picture gallery of iterations and pliers.
 
 
 GIFS HERE
