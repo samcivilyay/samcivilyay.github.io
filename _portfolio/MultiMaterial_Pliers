@@ -20,7 +20,9 @@ This project involves designing and 3D printing functional needle nose pliers th
 o About the design and iterative process (e.g., how was the spring component
 created and how is it retained in the model, materials used)
 ## Design and Iterative Process
+The MultiMaterial pliers are designed so that the flexible joint is made from 95A TPU to allow for continuous flexing, and the jaws and the handles are made up of rigid, PLA material. 
 
+The design incorporates a diagonal triangular-like jaw design in the flexible component, that are angled so that the TPU bites into the rigid PLA and cannot fall out. There is 0.5 mm of clearance space between the flexible joint and the rigid handle/jaw, for ease of integration and to allow enough space for a press-fit, but not loose enough that the TPU joint can easily fall out.
 
 
 * Plier Specifications:
