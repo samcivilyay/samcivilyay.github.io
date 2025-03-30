@@ -46,10 +46,7 @@ For the TPU flexible joints, a rectilinear pattern was chosen so that when the p
 o Picture gallery of iterations and pliers.
 
 
-o .GIF of pliers working 
-
-Don’t write this like a boring report. Write it like a web page by including headers, pictures,
-hyperlinks, etc
+GIFS HERE
 
 
 ## Citations
