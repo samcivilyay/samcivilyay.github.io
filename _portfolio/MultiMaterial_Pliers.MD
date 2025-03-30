@@ -39,6 +39,7 @@ The design incorporates a diagonal triangular-like jaw design in the flexible co
     * The pliers can grip an object with a maximum depth of 70.6 mm. 
   * Jaw Capacity: 21.2 mm
     * The pliers can grip an object with a maximum width of 21.2 mm. 
+
 ## Print Settings
   * TPU Flexible Joint:
     * Infill Pattern: Rectinilear, 15%
