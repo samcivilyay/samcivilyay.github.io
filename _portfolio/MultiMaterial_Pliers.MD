@@ -2,11 +2,11 @@
 title: "MultiMaterial Pliers"
 excerpt: "3D Printed, print-in-place functional pliers composed of PLA and TPU components."
 header:
-  image: assets/img/pliers.jpg
-  teaser: assets/img/pliers.jpg
+  image: assets/img/pliers.jpeg
+  teaser: assets/img/pliers.jpeg
 gallery:
   - url: /assets/img/pliers_cad.png
-    image_path: assets/img/pliers_cad.jpg
+    image_path: assets/img/pliers_cad.png
     alt: "placeholder image 1" 
   - url: /assets/img/plier_components.jpg
     image_path: assets/img/plier_components.jpg
@@ -14,8 +14,8 @@ gallery:
   - url: /assets/img/pliers_closed.jpeg
     image_path: assets/img/pliers_closed.jpeg
     alt: "placeholder image 1" 
-  - url: /assets/img/pliers.jpg
-    image_path: assets/img/pliers.jpg
+  - url: /assets/img/pliers.jpeg
+    image_path: assets/img/pliers.jpeg
     alt: "placeholder image 1" 
 ---
 ## Project Description
