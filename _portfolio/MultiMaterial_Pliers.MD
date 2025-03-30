@@ -27,7 +27,10 @@ This project involves designing and 3D printing functional needle nose pliers th
 
 ## Design and Iterative Process
 The MultiMaterial pliers are designed so that the flexible joint is made from 95A TPU to allow for continuous flexing, and the jaws and the handles are made up of rigid, PLA material. 
-PICTURE HERE
+
+![Joint Jaw Design](/assets/img/jaws.png)
+*Flexible Joint to Rigid PLA jaws.*
+
 The design incorporates a diagonal triangular-like jaw design in the flexible component, that are angled so that the TPU bites into the rigid PLA and cannot fall out. There is 0.5 mm of clearance space between the flexible joint and the rigid handle/jaw, for ease of integration and to allow enough space for a press-fit, but not loose enough that the TPU joint can easily fall out. The pliers are approximately 300 mm tall, and approximately 140 mm wide, so that one's hand can easily and comfortably grip around the handles and squeeze accordingly. Fortunately, the first physical iterations of the rigid plier components and the joint were easily integrated, and functioned effectively.
 
 
@@ -52,7 +55,11 @@ The design incorporates a diagonal triangular-like jaw design in the flexible co
 For the TPU flexible joints, a rectilinear pattern was chosen so that when the plier handles are squeezed, the grid-like structure bends cleanly along layer lines, and the stress is evenly distributed along those lines. A lower infill percentage was chosen to maximize bendability. The infill width of 1 mm ensures that each layer is stable while still maintaining bendability. 5 perimeters reinforce the joint's outer walls to resist tearing during repeated flexing. The absence of horizontal shells on the top and bottom of the TPU joint allows the joint to flex uniformly, as stiff shells would resist bending. The PLA rigid components were printed with the standard slicing parameters provided in the SuperSlicer software, as they are sufficient to maintain the pliers' durability.
 
 
-GIFS HERE
+![Functioning Pliers](/assets/img/pliers_resistor.gif)
+*Functioning pliers picking up and placing down a resistor.*
+
+![Pliers Squeeze](/assets/img/pliers_squeeze.gif)
+*Functioning pliers opening and closing.*
 
 
 ## Citations
