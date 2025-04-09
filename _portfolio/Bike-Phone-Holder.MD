@@ -74,15 +74,6 @@ The detent spinner mounts onto the handlebar clamp via a press-fit cylindrical e
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4821cf8a08621cd53?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-figures:
-
-▪ Real-life picture(s) of printed model in use on bike handlebars.
-▪ Real-life .GIF of the holder rotating between landscape and portrait
-▪ Fusion Rendering of phone holder with phone on it.
-▪ Cross-section view of internal rotation mechanism. This can be a
-screenshot of the design workspace with the section analysis tool.
-▪ Individual images of each of the top-down components. This can be reallife or Fusion renderings.
-
 ![Mount on Handlebars](/assets/img/mount_on_handlebars.png)
 *Bike phone mount secured to bike handlebars.*
 
