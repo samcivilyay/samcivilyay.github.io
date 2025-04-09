@@ -5,23 +5,29 @@ header:
   image: assets/img/complete_phone_mount.jpg
   teaser: assets/img/complete_phone_mount.jpg
 gallery:
-  - url: /assets/img/phone_mount_CAD.jpg
-    image_path: assets/img/phone_mount_CAD.jpg
+  - url: /assets/img/phone_mount_CAD.png
+    image_path: assets/img/phone_mount_CAD.png
     alt: "placeholder image 1" 
   - url: /assets/img/phone_mount.jpg
     image_path: assets/img/phone_mount.jpg
     alt: "placeholder image 1" 
-  - url: /assets/img/model_on_handlebars.jpg
-    image_path: assets/img/phone_mount_CAD.jpg
+  - url: /assets/img/detent_spinner.jpg
+    image_path: assets/img/detent_spinner.jpg
     alt: "placeholder image 1" 
-  - url: /assets/img/model_on_handlebars.jpg
-    image_path: assets/img/phone_mount_CAD.jpg
+  - url: /assets/img/detent_spinner_mount.jpg
+    image_path: assets/img/detent_spinner_mount.jpg
     alt: "placeholder image 1" 
-  - url: /assets/img/model_on_handlebars.jpg
-    image_path: assets/img/phone_mount_CAD.jpg
+  - url: /assets/img/detent_mechanism.jpg
+    image_path: assets/img/detent_mechanism.jpg
     alt: "placeholder image 1" 
-  - url: /assets/img/model_on_handlebars.jpg
-    image_path: assets/img/phone_mount_CAD.jpg
+  - url: /assets/img/clamp1.jpg
+    image_path: assets/img/clamp1.jpg
+    alt: "placeholder image 1" 
+  - url: /assets/img/clamp2.jpg
+    image_path: assets/img/clamp2.jpg
+    alt: "placeholder image 1" 
+  - url: /assets/img/pin.jpg
+    image_path: assets/img/pin.jpg
     alt: "placeholder image 1" 
 ---
 
