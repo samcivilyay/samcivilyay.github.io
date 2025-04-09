@@ -18,14 +18,14 @@ feature_row:
     alt: "Syringe Pump"
     title: "Syringe Pump"
     excerpt: "Cost-effective, highly accurate syringe pump as an alternative to expensive commercial models."
-  - image_path: assets/img/pliers.png
-    alt: "Syringe Pump"
-    title: "Syringe Pump"
-    excerpt: "Cost-effective, highly accurate syringe pump as an alternative to expensive commercial models."
+  - image_path: assets/img/pliers.jpeg
+    alt: "MultiMaterial Pliers"
+    title: "MultiMaterial Pliers"
+    excerpt: "3D Printed, print-in-place functional pliers composed of PLA and TPU components."
   - image_path: assets/img/phone_mount_CAD.png
     alt: "Bike Phone Holder: Top-Down Modeling Project"
     title: "Bike Phone Holder: Top-Down Modeling Project"
-    excerpt: "fill in "
+    excerpt: "Bike phone holder designed using top-down modeling approach, with no additional tools needed for implementation and snap orientations in landscape and portrait mode."
 
 
 ---
