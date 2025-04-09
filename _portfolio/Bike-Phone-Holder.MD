@@ -34,6 +34,20 @@ The detent spinner mounts onto the handlebar clamp via a press-fit cylindrical e
   * Compression Spring 
 
 ## Assembly/Use Instructions
+* Assembly Instructions
+  * Insert M5 heat set insert into handlebar clamp 2. 
+  * Insert handlebar attachment pin between handlebar clamps 1 and 2. 
+  * Secure clamps around bike handlebar with M5 socket head screw and allen key. 
+  * Insert M3 heat set inserts into handlebar clamp 1 for detent spinner mount to attach. 
+  * Attach detent spinner mount to handlebar clamp 1 with M3 socket head screws and allen key.
+  * Place compression spring and ball bearing into detent spinner mount slot. 
+  * Attach detent spinner to handlebar clamp 1. 
+  * Attach phone mount to detent spinner. 
+  * Attach cell phone to phone mount.
+* Use Instructions
+  * Tilt cell phone in mount to landscape or portrait mode.
+    * The ball bearing will snap the mount into place in each of these orientations. 
+  * Attach/Remove cell phone as needed.
 
 ## CAD Model
 
