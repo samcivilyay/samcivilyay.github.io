@@ -89,7 +89,7 @@ screenshot of the design workspace with the section analysis tool.
 ![Mount Rotating](/assets/img/mount_rotating.gif)
 *Bike phone mount in use, rotating between landscape and portrait on handlebars.*
 
-![Phone Holder with Phone](/assets/img/fusion_rendering.jpeg)
+![Phone Holder with Phone](/assets/img/fusion_rendering.JPEG)
 *Fusion rendering of phone holder with phone secured within.*
 
 ![Cross-Sectional View of Internal Rotation Mechanism](/assets/img/cross-sectional-view.png)
