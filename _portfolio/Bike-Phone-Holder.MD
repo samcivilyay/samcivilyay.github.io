@@ -2,11 +2,26 @@
 title: "Bike Phone Holder; Top-Down Modeling Project"
 excerpt: "Bike phone holder designed using top-down modeling approach, with no additional tools needed for implementation and snap orientations in landscape and portrait mode."
 header:
-  image: assets/img/mount_physical_model.jpg
-  teaser: assets/img/mount_CAD.jpg
+  image: assets/img/complete_phone_mount.jpg
+  teaser: assets/img/complete_phone_mount.jpg
 gallery:
+  - url: /assets/img/phone_mount_CAD.jpg
+    image_path: assets/img/phone_mount_CAD.jpg
+    alt: "placeholder image 1" 
+  - url: /assets/img/phone_mount.jpg
+    image_path: assets/img/phone_mount.jpg
+    alt: "placeholder image 1" 
   - url: /assets/img/model_on_handlebars.jpg
-    image_path: assets/img/model_on_handlebars.jpg
+    image_path: assets/img/phone_mount_CAD.jpg
+    alt: "placeholder image 1" 
+  - url: /assets/img/model_on_handlebars.jpg
+    image_path: assets/img/phone_mount_CAD.jpg
+    alt: "placeholder image 1" 
+  - url: /assets/img/model_on_handlebars.jpg
+    image_path: assets/img/phone_mount_CAD.jpg
+    alt: "placeholder image 1" 
+  - url: /assets/img/model_on_handlebars.jpg
+    image_path: assets/img/phone_mount_CAD.jpg
     alt: "placeholder image 1" 
 ---
 
@@ -113,4 +128,4 @@ CHBE 4200 Top-Down GitHub Project
 
 
 
-{% include gallery caption="Microfluidic Device Physical Fabrication" %}
+{% include gallery caption="Bike Phone Mount CAD Model, and Individual Components" %}
