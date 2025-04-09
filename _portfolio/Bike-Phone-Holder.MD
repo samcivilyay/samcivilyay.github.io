@@ -12,15 +12,26 @@ gallery:
 
 ## Introduction: Top-Down Modeling
 
-A description of top-down modeling and how it was leveraged in this
-assignment. 
+Top-down modeling refers to a methodology in which components are designed in reference to each other within one assembly. This allows for dimensions from components to be projected onto others, which lets any changes in one part automatically update other parts dependent on the original. Placing parts at their desired locations in relation to other parts also enables the use of as-built joints, which sets both components in place as they are built. Furthermore, this method eliminates the need to constantly go back and forth between separate models, as is traditionally required, since every single part of an assembly is defined as a new component within that assembly, instead of in a separate file. The top-down modeling method was utilized to design a bike phone mount that rigidly clamps onto bike handlebars, and allows for rigid mounting of a cell phone to sit within the mount and snap into both landscape and portrait orientations. 
 
 ## Design Rationale
 
-• What type of rotation mechanism did you use? Does it work well?
-• Did you have to change any dimensions to account for the 3D
-printing process?
-• What type of 3D printing did you use? Why?
+This bike phone mount utilizes a detent mechanism to allow the phone to snap into landscape and portrait positions while on the mount. This mechanism consists of a compression spring, a ball bearing, and a spinner with four circular slots that the ball bearing will snap into due to the force that the spring imparts onto it. The detent mechanism mount includes a slot which encases the compression spring, and the detent spinner fits snugly within the mount, so that the ball bearing sits within half of the circular slot and half within the slotted portion of the detent mount above the compression spring. The compression spring has a 15 mm relaxed length, and the ball bearing has a diameter of 8 mm. The slotted portion is 18 mm in length, and the circular slot in the detent spinner has a radius of 4 mm. This gives the ball and spring 22 mm of space to fit in each of the four snap positions (90, 180, 270, and 360 degrees), and when compressed, gives the ball and spring 18 mm of space. Completely relaxed, the spring and ball would take up a total length of 23 mm. This length constraint provides adequate compression to allow for efficient rotation and snapping into position. 
+
+The detent spinner mounts onto the handlebar clamp via a press-fit cylindrical extrusion, in which an extruded cylinder protruding from the clamp fits into a circular hole in the detent spinner. It was important during this design process to ensure that this fit was tight enough that it wouldn't fall off, but not too tight that the spinner could not spin, and also support the weight of the phone case spinning with it. It was also important to ensure that the detent spinner would press-fit onto the phone mount and prevent independent rotation of the phone mount with relation to the detent spinner. Because the phone mount was 3D printed from flexible TPU material, this tolerancing would be tighter than fitting into PLA. Thus, several design iterations were printed of the detent spinner, with varying circular hole dimensions (to fit onto the clamp and be able to rotate) and varying cylindrical extrusion diameter dimensions (for the phone mount to rigidly fit onto, so both would spin together). The final tolerancing between both PLA components (clamp and spinner) was 0.1 mm, and the tolerance between the spinner (PLA) and phone mount (TPU) was 0.002 mm. 
+
+* The bike phone mount is comprised of the following 3D printed components: 
+  * Handlebar Clamp 1 (PLA)
+  * Handlebar Clamp 2 (PLA)
+  * Detent Spinner Mount (PLA)
+  * Detent Spinner (PLA)
+  * Phone Mount (TPU)
+  * Handlebar Attachment Pin (PLA)
+* The phone mount was printed from TPU to serve as a flexible mounting mechanism that the phone could snugly fit into. The other aforementioned components were printed from PLA to serve as rigid, structural components. The bike phone mount also includes the following off-the-shelf components: 
+  * Socket Head Screws
+  * Heat Set Inserts
+  * Stainless Steel Ball Bearing
+  * Compression Spring 
 
 ## Assembly/Use Instructions
 
