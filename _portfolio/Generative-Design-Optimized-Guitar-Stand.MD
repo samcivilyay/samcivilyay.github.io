@@ -52,7 +52,7 @@ The obstacle geometry in this model is defined by all the regions which relate t
 
 ## Load Case Application and Structural Constraints
 
-After defining the obstacle and preserve geometries, it was important to consider regions that would be taken up by the player placing the guitar in the stand, the cable hanging on its stand, and what loads would be imparted onto the model by either the player, the guitar, or the cable. Firstly, a fixed structural constraint was placed on the inner cylindrical face of both screwholes, since the mount is designed to be screwed into the wall, and does not move. This ensures that the location and the shape of this region remains the same throughout the generative design study. Following this step, the forces that both the guitar, the player, and the cable would impart onto the stand were determined and incorporated into the study. 
+After defining the obstacle and preserve geometries, it was important to consider what loads the guitar, player and the cable would impart onto the stand while in use. Firstly, a fixed structural constraint was placed on the inner cylindrical face of both screwholes, since the mount is designed to be screwed into the wall, and does not move. This ensures that the location and the shape of this region remains the same throughout the generative design study. Following this step, the forces (and directions) that both the guitar, the player, and the cable would impart onto the stand were determined and incorporated into the study. 
 
 ![Loads](/assets/img/loads.png)
 *Structural loads applied to the guitar stand.*
