@@ -93,6 +93,17 @@ It seems that generative design is very useful after several design iterations h
 
 ## Forces Applied
 
+| Force | Magnitude (lbf) | Location | Rationale |
+|-------|-----------------|----------|-----------|
+| Guitar Weight | 5 | Top Face of Guitar Mount | Vertical supported guitar weight on the mount. |
+| Cable Weight | 1 | Top Face of Cable Mount | Vertical supported cable weight on the mount. | 
+| Bearing Load on Screws | 52 | Inner cylindrical screwhole faces | Bearing load in the screwholes to mount the stand onto wooden wall. |
+| Cable Removal | 15 | Cylinder sides of cable mount | Shear force on cable mount from cable removal. | 
+| Guitar Removal | 8 | Sides of guitar mount | Shear force on guitar mount from rotating the guitar to remove from curved mount. |
+| Swinging/Vibration | 4 | Right face of curved guitar mount | Lateral force from swinging/shaking guitar on mount. | 
+| Swinging/Vibration | 4 | Left face of curved guitar mount | Lateral force from swinging/shaking guitar on mount. | 
+
+
 
 
 {% include gallery caption="Bike Phone Mount CAD Model, and Individual Components" %}
