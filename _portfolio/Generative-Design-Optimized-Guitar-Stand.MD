@@ -97,7 +97,7 @@ It seems that generative design is very useful after several design iterations h
 ![Iterations](/assets/img/iterations.png)
 *Generative design iterations 10, 20, and 32 (final) of guitar stand, from left to right, respectively.*
 
-![Rendering](/assets/img/rendering.png)
+![Rendering](/assets/img/render.png)
 *Fusion 360 Rendering of guitar stand CAD model.*
 
 
