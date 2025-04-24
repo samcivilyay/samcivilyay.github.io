@@ -2,32 +2,23 @@
 title: "Generative Design Optimized Guitar Stand"
 excerpt: "Guitar stand designed in Fusion 360 and optimized using generative design for SLS manufacturing."
 header:
-  image: assets/img/CAD.png
+  image: assets/img/physical_model.jpg
   teaser: assets/img/CAD.png
 gallery:
-  - url: /assets/img/phone_mount_CAD.png
-    image_path: assets/img/phone_mount_CAD.png
+  - url: /assets/img/physical_model.jpg
+    image_path: assets/img/physical_model.jpg
     alt: "placeholder image 1" 
-  - url: /assets/img/phone_mount.jpg
-    image_path: assets/img/phone_mount.jpg
+  - url: /assets/img/full_view.jpg
+    image_path: assets/img/full_view.jpg
     alt: "placeholder image 1" 
-  - url: /assets/img/detent_spinner.jpg
-    image_path: assets/img/detent_spinner.jpg
+  - url: /assets/img/front_view.jpg
+    image_path: assets/img/front_view.jpg
     alt: "placeholder image 1" 
-  - url: /assets/img/detent_spinner_mount.jpg
-    image_path: assets/img/detent_spinner_mount.jpg
+  - url: /assets/img/side_view.jpg
+    image_path: assets/img/side_view.jpg
     alt: "placeholder image 1" 
-  - url: /assets/img/detent_mechanism.jpg
-    image_path: assets/img/detent_mechanism.jpg
-    alt: "placeholder image 1" 
-  - url: /assets/img/clamp1.jpg
-    image_path: assets/img/clamp1.jpg
-    alt: "placeholder image 1" 
-  - url: /assets/img/clamp2.jpg
-    image_path: assets/img/clamp2.jpg
-    alt: "placeholder image 1" 
-  - url: /assets/img/pin.jpg
-    image_path: assets/img/pin.jpg
+  - url: /assets/img/side_view2.jpg
+    image_path: assets/img/side_view2.jpg
     alt: "placeholder image 1" 
 ---
 
@@ -103,7 +94,11 @@ It seems that generative design is very useful after several design iterations h
 | Swinging/Vibration | 4 | Right face of curved guitar mount | Lateral force from swinging/shaking guitar on mount. | 
 | Swinging/Vibration | 4 | Left face of curved guitar mount | Lateral force from swinging/shaking guitar on mount. | 
 
+![Iterations](/assets/img/iterations.png)
+*Generative design iterations 10, 20, and 32 (final) of guitar stand, from left to right, respectively.*
+
+![Rendering](/assets/img/rendering.png)
+*Fusion 360 Rendering of guitar stand CAD model.*
 
 
-
-{% include gallery caption="Bike Phone Mount CAD Model, and Individual Components" %}
+{% include gallery caption="Physical Guitar Stand In Use" %}
