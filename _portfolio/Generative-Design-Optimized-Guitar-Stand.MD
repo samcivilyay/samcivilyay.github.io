@@ -61,6 +61,30 @@ The obstacle geometry in this model is defined by all the regions which relate t
 
 ## Load Case Application and Structural Constraints
 
+After defining the obstacle and preserve geometries, it was important to consider regions that would be taken up by the player placing the guitar in the stand, the cable hanging on its stand, and what loads would be imparted onto the model by either the player, the guitar, or the cable. Firstly, a fixed structural constraint was placed on the inner cylindrical face of both screwholes, since the mount is designed to be screwed into the wall, and does not move. This ensures that the location and the shape of this region remains the same throughout the generative design study. Following this step, the forces that both the guitar, the player, and the cable would impart onto the stand were determined and incorporated into the study. 
+
+![Loads](/assets/img/loads.png)
+*Structural loads applied to the guitar stand.*
+
+* The following loads were applied to the model: 
+  1. 5 lbs applied to the top face of the curved mount. This represents the weight of the guitar that is supported by the mount. This was determined by physically weighing the guitar, applying a safety factor of 1.25 and understanding that its weight is applied vertically down on the stand as it is supported.
+  2. 1 lb applied vertically downward onto the guitar cable mount. This represents the weight of the cable supported by the mount, and was determined by weighing the cable itself and applying a safety factor of 2.
+  3. 52 lbs applied as a bearing load to both screwholes. Plywood (to screw the mount into) has a bearing strength of approximately 500 psi, and the screwholes are designed for #6 wood screws. The screw diameter is 0.138", and is about 0.75" embedded into the wood. Thus, the projeted bearing area is 0.104 square inches. The bearing load is 500 psi * 0.104 in^2 = 52 lbs. 
+  4. 15 lbs applied along the sides of the cylindrical cable mount, representing the shear force on the mount from yanking the cable sideways to remove it. 15 lbs was used as a conservative estimate in case the player applied an aggressive pull on the cable.
+  5. 8 lbs applied along the sides of the guitar mount perimeter, representing the shear force on the mount when turning the neck of the guitar so it can come out of the stand. 8 lbs was used as a conservative estimate in case the player aggressively and rapidly turned the guitar against the mount. 
+  6. 4 lbs applied to the right face of the curved guitar mount. This represents the lateral force onto the right face that might come from the guitar swinging back and forth or shaking on the mount. 4 lbs is the weight of the guitar.
+  7. 4 lbs applied to the left face of the curved guitar mount. This represents the lateral force onto the left face that might come from the guitar swinging back and forth or shaking on the mount. 4 lbs is the weight of the guitar.
+
+* To further refine the loads, the real-world prototype could be rigidly attached to a wall, and the following load tests could be done:
+  * Placing the guitar within its mount and shaking it vigorously side to side.
+  * Swinging the guitar back and forth on the mount.
+  * Sliding the guitar along the walls of the curved portion.
+  * Sliding the cable back and forth along its mount.
+  * Applying vertical pressure to the top of the cable as it sits on its mount. 
+* If any of these tests fail, the loads could be increased in the generative design study, and new loads could be added as visualized from testing.
+
+## Critique of Generative Design
+
 ## CAD Model
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a47e7227ecb31351f4?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
