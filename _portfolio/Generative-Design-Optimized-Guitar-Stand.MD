@@ -46,7 +46,7 @@ When designing the model, it was important to consider such regions as where the
   * Two screw holes for #6 wood screws, with space for the screwhead, threads, and length. 
   * A mount to hang a 1/4" cable to plug the guitar in to an amplifier, with stoppers to prevent slipping and sufficient space for the width of multiple cable loops.
   * The curved stand portion, which supports the guitar between its head and neck. This has enough clearance for the guitar to be inserted diagonally, and it fits snug in place.
-  * The back of the stand (rectangular lip portion), which provides a connection point between the screw holes to the curved stand. The guitar itself serves as a large obstacle (discussed later), obstructing the view of the curved stand from the screw holes; this allows for a clear connection point between the two.
+  * The back of the stand (rectangular lip portion), which provides a connection point between the screw holes to the curved stand. The guitar itself serves as a large obstacle, obstructing the view of the curved stand from the screw holes; this allows for a clear connection point between the two.
 
 The obstacle geometry in this model is defined by all the regions which relate to the guitar itself, tools to attach the stand to the wall, and the guitar cable.
 
@@ -85,9 +85,13 @@ After defining the obstacle and preserve geometries, it was important to conside
 
 ## Critique of Generative Design
 
+It seems that generative design is very useful after several design iterations have been completed. Generative design should only be used when the engineer knows that their model fits the necessary size constraints. Since generative design studies take up a lot of time, to check if parts fit within certain models, the engineer should first design and fabricate simple shapes from CAD, and as those work, in later steps incorporate generative design. It is an extremely useful tool to functionally lightweight designs, as well as incorporate complex geometries that can be definitively supported by several fabrication methods that are declared in the study. Some limitations that may occur from utilizing generative design are that the engineer must definitively know where exactly each component falls in relation to the next, and exactly what loads the model might experience, and at what locations. Also, preserve geometries must be visible to each other; if obstacle geometries are blocking the view between two, the generative design study may falter in connecting those two components; this is something I initially struggled with, and thus had to add the back rectangular lip to the curved guitar mount so that the mounting screwholes could be efficiently connected. Generative design would be extremely useful in aerospace applications, where mass cuts are essential to ensure that systems can lift off without weight restrictions. However, for simple structural components like brackets of beams, generative design may add unnecessary time and complexity. 
+
 ## CAD Model
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a47e7227ecb31351f4?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+## Forces Applied
 
 
 
