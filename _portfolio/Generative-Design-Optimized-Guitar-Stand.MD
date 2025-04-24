@@ -30,7 +30,7 @@ Musicians need to store their instruments in safe and reliable ways, especially 
 
 When designing the model, it was important to consider such regions as where the guitar was mounted on the stand, how it would be inserted, where the screwdriver to mount the stand would exist relative to the model, and others: these came to define the critical preserve regions and the obstacle geometry of the model. I started with the critical preserve regions.
 
-![Preserve](/assets/img/preserve1.png)
+![Preserve](/assets/img/preserve1.png) 
 *Critical preserve regions of the guitar stand.*
 
 * The critical preserve regions include the following: 
