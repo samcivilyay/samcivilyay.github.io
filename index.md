@@ -26,7 +26,7 @@ feature_row:
     alt: "Bike Phone Holder: Top-Down Modeling Project"
     title: "Bike Phone Holder: Top-Down Modeling Project"
     excerpt: "Bike phone holder designed using top-down modeling approach, with no additional tools needed for implementation and snap orientations in landscape and portrait mode."
-  - image_path: assets/img/physical_model.png
+  - image_path: assets/img/physical_model.jpg
     alt: "Generative Design Optimized Guitar Stand"
     title: "Generative Design Optimized Guitar Stand"
     excerpt: "Guitar stand designed and optimized for lightweight functionality using generative design."
